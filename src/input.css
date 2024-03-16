@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input-fields {
+  margin: 10rem !important;
+  width: 100% !important;
+  color: black !important;
+}

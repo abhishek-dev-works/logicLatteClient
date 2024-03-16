@@ -1,0 +1,1 @@
+export const USERBASEURL = 'http://localhost:8080/api/users';
