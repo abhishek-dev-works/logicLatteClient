@@ -33,7 +33,7 @@ const LoginForm = () => {
     const res = await createUser(payload);
     console.log(res);
   };
-  const handleFileChange = (e) => {
+  const handleFileChange = (e: any) => {
     const file = e.target.files[0];
     setAttachment(file);
   };
