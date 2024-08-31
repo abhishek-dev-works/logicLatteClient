@@ -35,6 +35,15 @@ const useStyles = makeStyles()({
     textDecoration: "none",
     color: "black",
     cursor: "pointer",
+    "&:hover": {
+      color: "#3e3fc4",
+    },
+  },
+  typography: {
+    color: "black",
+    "&:hover": {
+      color: "#3e3fc4",
+    },
   },
   icon: {
     marginRight: "1.5rem",
@@ -70,7 +79,7 @@ const MenuItem = ({
   return (
     <a className={classes.menuItem} href={link}>
       <div className={classes.icon}>{icon}</div>
-      <Typography fontSize="medium" color="#000000">
+      <Typography fontSize="medium" className={classes.typography}>
         {displayText}
       </Typography>
     </a>
