@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/img-redundant-alt */
 import { IconButton, Typography } from "@mui/material";
 import { Box } from "@mui/system";
 import React from "react";
@@ -6,7 +7,7 @@ import ShareIcon from "./ShareIcon";
 import { makeStyles } from "tss-react/mui";
 import FavoriteIcon from "@mui/icons-material/Favorite";
 export interface IPostProps {
-  author_name: string
+  author_name?: string
   post_id: number;
   user_id: number;
   heading?: string;

@@ -1,24 +1,35 @@
-import * as React from "react";
-import { Navigate, Route, RouteProps } from "react-router-dom";
+// // import * as React from "react";
+// // import { Navigate, Route, RouteProps } from "react-router-dom";
+// // import AuthenticationPage from "../Pages/AuthenticationPage";
+// // import LandingPage from "../Pages/LandingPage";
 
-interface PrivateRouteProps  {
-  isAuthenticated: boolean;
-  path: string;
-  element: React.ReactNode;
-  redirectPath: string;
-}
+// // interface PrivateRouteProps {
+// //   path: string;
+// //   element: React.ReactNode;
+// //   redirectPath: string;
+// // }
 
-const PrivateRoute: React.FC<PrivateRouteProps> = ({
-  isAuthenticated,
-  ...routeProps
-}) => {
-  if (isAuthenticated) {
-    // If the user is authenticated, render the route normally
-    return <Route {...routeProps} />;
-  } else {
-    // If the user is not authenticated, redirect to the login page
-    return <Navigate to="/login" />;
-  }
-};
+// // // const Layout = (props: { Component: any; [key: string]: any }) => {
+// // //   const { Component, ...rest } = props;
+// // //   return <LandingPage component={<Component {...rest} />} />;
+// // // };
 
-export default PrivateRoute;
+// const PrivateRoute: React.FC<PrivateRouteProps> = ({ ...routeProps }) => {
+//   const isAuthenticated = true; // Replace this with your own authentication logic
+//   return (
+//     <Route
+//     path="/"
+//     element={
+//       isAuthenticated ? (
+//         <LandingPage>
+//           <HomePage />
+//         </LandingPage>
+//       ) : (
+//         <Navigate to="/auth" />
+//       )
+//     }
+//   />
+//   );
+// };
+
+// export default PrivateRoute;

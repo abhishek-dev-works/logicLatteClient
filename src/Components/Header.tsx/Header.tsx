@@ -4,6 +4,7 @@ import Logo from "../../assets/images/logo.png";
 import { Avatar, InputAdornment, TextField } from "@mui/material";
 import SearchIcon from "@mui/icons-material/Search";
 import NotificationsIcon from "@mui/icons-material/Notifications";
+import MessageIcon from "@mui/icons-material/Message";
 
 const useStyles = makeStyles()({
   header: {
@@ -17,7 +18,7 @@ const useStyles = makeStyles()({
     backgroundColor: "#3e3fc4",
     position: "sticky",
     top: 0,
-    zIndex: 12,
+    zIndex: 120,
   },
   image: {
     height: "50px",
@@ -42,6 +43,12 @@ const useStyles = makeStyles()({
   logoWrapper: {
     display: "flex",
   },
+  actionPanel: {
+    display: "flex",
+    alignItems: "center",
+    gap: 25,
+    padding: 18,
+  },
 });
 const Header = () => {
   const { classes } = useStyles();
@@ -62,8 +69,11 @@ const Header = () => {
         }}
         className={classes.textField}
       />
-      <NotificationsIcon fontSize="large" />
-      <Avatar sx={{ bgcolor: "#fefefe", color: "#000000" }}>AB</Avatar>
+      <div className={classes.actionPanel}>
+        <MessageIcon fontSize="large" />
+        <NotificationsIcon fontSize="large" />
+        <Avatar sx={{ bgcolor: "#fefefe", color: "#000000" }}>AB</Avatar>
+      </div>
     </div>
   );
 };

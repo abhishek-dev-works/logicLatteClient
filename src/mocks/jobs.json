@@ -1,0 +1,336 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "type": "Full Time",
+    "description": "We are looking for a Frontend Developer to join our team. You will be responsible for building the 'client-side' of our web applications. You should be able to translate our company and customer needs into functional and appealing interactive applications. you will work with other developers and product managers throughout the software development life cycle. your role will also include implementing visual elements that users see and interact within a web application, which makes your role crucial for the success of our business.",
+    "requirements": [
+      "Proven work experience as a Frontend Developer",
+      "Hands-on experience with markup languages",
+      "Experience with JavaScript, CSS, and jQuery",
+        "Familiarity with browser testing and debugging",      "Understanding of layout aesthetics",
+      "Knowledge of SEO principles",
+      "An ability to perform well in a fast-paced environment",
+      "Excellent analytical and multitasking skills",
+      "BSc degree in Computer Science or relevant field"
+    ],
+    "responsibilities": [
+      "Analyze and interpret complex data sets to identify trends and patterns",
+      "Develop and implement machine learning algorithms and models",
+      "Collaborate with cross-functional teams to define and solve business problems using data-driven approaches",
+      "Design and build data pipelines for data ingestion, processing, and analysis",
+      "Perform data cleaning, transformation, and feature engineering",
+      "Evaluate and select appropriate machine learning techniques and algorithms",
+      "Train and optimize machine learning models using large-scale datasets",
+      "Deploy machine learning models into production environments",
+      "Monitor and evaluate model performance and make improvements as necessary",
+      "Understanding of machine-learning and operations research",
+      "Knowledge of R, SQL, and Python",
+      "Experience using business intelligence tools (e.g. Tableau)",
+      "Excellent analytical and time management skills",
+      "Teamwork skills with a problem-solving attitude",
+      "BSc degree in Computer Science or relevant field"
+    ],
+    "apply": "https://www.google.com",
+    "date": "2021-07-01",
+    "experience": "3-5 years",
+    "logo": "https://logo.clearbit.com/google.com",
+    "salary": "$100,000 - $120,000"
+  },
+  {
+    "id": 6,
+    "title": "Mobile App Developer",
+    "company": "Uber",
+    "location": "San Francisco, CA",
+    "type": "Full Time",
+    "description": "We are looking for a Mobile App Developer to join our team. You will be responsible for developing and maintaining mobile applications for both iOS and Android platforms. You should have a strong understanding of mobile app development principles and be able to work in a fast-paced environment. Your role will involve collaborating with cross-functional teams to define, design, and ship new features.",
+    "requirements": [
+      "Proven work experience as a Mobile App Developer",
+      "Proficient in Swift and/or Kotlin",
+      "Experience with mobile app frameworks (e.g. React Native, Flutter)",
+      "Familiarity with RESTful APIs",
+      "Knowledge of mobile UI/UX best practices",
+      "Strong problem-solving and debugging skills",
+      "BSc degree in Computer Science or relevant field"
+    ],
+    "responsibilities": [
+      "Design and build advanced applications for the iOS and Android platforms",
+      "Collaborate with cross-functional teams to define, design, and ship new features",
+      "Unit-test code for robustness, including edge cases, usability, and general reliability",
+      "Work on bug fixing and improving application performance",
+      "Continuously discover, evaluate, and implement new technologies to maximize development efficiency"
+    ],
+    "apply": "https://www.uber.com",
+    "date": "2021-07-01",
+    "experience": "3-5 years",
+    "logo": "https://logo.clearbit.com/uber.com",
+    "salary": "$100,000 - $120,000"
+  },
+  {
+    "id": 7,
+    "title": "UI/UX Designer",
+    "company": "Adobe",
+    "location": "San Jose, CA",
+    "type": "Full Time",
+    "description": "We are looking for a UI/UX Designer to join our team. You will be responsible for creating visually appealing and user-friendly interfaces for our software products. You should have a strong understanding of user-centered design principles and be able to collaborate with cross-functional teams to deliver high-quality designs.",
+    "requirements": [
+      "Proven work experience as a UI/UX Designer",
+      "Proficient in design tools like Adobe XD, Sketch, or Figma",
+      "Strong portfolio showcasing UI/UX design projects",
+      "Knowledge of user-centered design principles",
+      "Familiarity with front-end development technologies (e.g. HTML, CSS)",
+      "Excellent communication and collaboration skills",
+      "BSc degree in Design, Computer Science, or relevant field"
+    ],
+    "responsibilities": [
+      "Create wireframes, prototypes, and visual designs for software products",
+      "Collaborate with cross-functional teams to define and implement design guidelines",
+      "Conduct user research and usability testing to gather feedback",
+      "Iterate on designs based on user feedback and business requirements",
+      "Ensure consistency and coherence across different product features"
+    ],
+    "apply": "https://www.adobe.com",
+    "date": "2021-07-01",
+    "experience": "3-5 years",
+    "logo": "https://logo.clearbit.com/adobe.com",
+    "salary": "$100,000 - $120,000"
+  },
+  {
+    "id": 8,
+    "title": "Machine Learning Engineer",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "type": "Full Time",
+    "description": "We are looking for a Machine Learning Engineer to join our team. You will be responsible for developing and implementing machine learning models and algorithms to solve complex problems. You should have a strong background in machine learning and be able to work with large datasets. Your role will involve collaborating with cross-functional teams to develop and deploy machine learning solutions.",
+    "requirements": [
+      "Proven work experience as a Machine Learning Engineer",
+      "Strong programming skills in Python and/or R",
+      "Experience with machine learning frameworks (e.g. TensorFlow, PyTorch)",
+      "Knowledge of data preprocessing and feature engineering techniques",
+      "Familiarity with cloud platforms (e.g. AWS, GCP)",
+      "Excellent problem-solving and analytical skills",
+      "BSc or MSc degree in Computer Science, Statistics, or relevant field"
+    ],
+    "responsibilities": [
+      "Develop and implement machine learning models and algorithms",
+      "Preprocess and analyze large datasets to extract meaningful insights",
+      "Collaborate with cross-functional teams to define and solve business problems",
+      "Deploy machine learning models into production environments",
+      "Monitor and evaluate model performance and make improvements as necessary"
+    ],
+    "apply": "https://www.tesla.com",
+    "date": "2021-07-01",
+    "experience": "3-5 years",
+    "logo": "https://logo.clearbit.com/tesla.com",
+    "salary": "$100,000 - $120,000"
+  },
+  {
+    "id": 9,
+    "title": "Product Manager",
+    "company": "Netflix",
+    "location": "Los Gatos, CA",
+    "type": "Full Time",
+    "description": "We are looking for a Product Manager to join our team. You will be responsible for defining and executing the product roadmap for our streaming platform. You should have a strong understanding of user needs and market trends, and be able to collaborate with cross-functional teams to deliver innovative and engaging products.",
+    "requirements": [
+      "Proven work experience as a Product Manager",
+      "Strong analytical and problem-solving skills",
+      "Excellent communication and presentation skills",
+      "Experience with agile development methodologies",
+      "Familiarity with data analysis and user research techniques",
+      "Passion for entertainment and streaming industry",
+      "BSc or MSc degree in Business, Computer Science, or relevant field"
+    ],
+    "responsibilities": [
+      "Define and prioritize product features based on user needs and business goals",
+      "Collaborate with engineering, design, and content teams to deliver high-quality products",
+      "Conduct market research and competitive analysis to identify trends and opportunities",
+      "Gather and analyze user feedback to drive product improvements",
+      "Monitor product performance and make data-driven decisions to optimize user experience"
+    ],
+    "apply": "https://www.netflix.com",
+    "date": "2021-07-01",
+    "experience": "3-5 years",
+    "logo": "https://logo.clearbit.com/netflix.com",
+    "salary": "$100,000 - $120,000"
+  },
+  {
+    "id": 10,
+    "title": "Cybersecurity Analyst",
+    "company": "IBM",
+    "location": "Armonk, NY",
+    "type": "Full Time",
+    "description": "We are looking for a Cybersecurity Analyst to join our team. You will be responsible for monitoring and analyzing security events to detect and respond to potential threats. You should have a strong understanding of cybersecurity principles and be able to work in a fast-paced environment. Your role will involve collaborating with cross-functional teams to implement and maintain security measures.",
+    "requirements": [
+      "Proven work experience as a Cybersecurity Analyst",
+      "Knowledge of network protocols and security technologies",
+      "Experience with security incident response and vulnerability management",
+      "Familiarity with SIEM tools and log analysis",
+      "Strong problem-solving and critical thinking skills",
+      "Excellent communication and teamwork skills",
+      "BSc or MSc degree in Cybersecurity, Computer Science, or relevant field"
+    ],
+    "responsibilities": [
+      "Monitor security events and investigate potential threats",
+      "Analyze security logs and alerts to identify security incidents",
+      "Respond to security incidents and perform incident handling",
+      "Conduct vulnerability assessments and penetration testing",
+      "Implement and maintain security controls and policies",
+      "Stay up-to-date with the latest cybersecurity trends and technologies"
+    ],
+    "apply": "https://www.ibm.com",
+    "date": "2021-07-01",
+    "experience": "3-5 years",
+    "logo": "https://logo.clearbit.com/ibm.com",
+    "salary": "$100,000 - $120,000"
+  },
+  {
+    "id": 11,
+    "title": "Software Engineer",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "type": "Full Time",
+    "description": "We are looking for a Software Engineer to join our team. You will be responsible for designing, developing, and maintaining software applications. You should have a strong understanding of software development principles and be able to work in a collaborative environment. Your role will involve collaborating with cross-functional teams to deliver high-quality software solutions.",
+    "requirements": [
+      "Proven work experience as a Software Engineer",
+      "Strong programming skills in one or more languages (e.g. C++, Java, Python)",
+      "Experience with software development methodologies (e.g. Agile, Scrum)",
+      "Knowledge of software testing and debugging techniques",
+      "Familiarity with version control systems (e.g. Git)",
+      "Excellent problem-solving and analytical skills",
+      "BSc or MSc degree in Computer Science or relevant field"
+    ],
+    "responsibilities": [
+      "Design, develop, and maintain software applications",
+      "Collaborate with cross-functional teams to define and implement software requirements",
+      "Write clean, efficient, and maintainable code",
+      "Conduct unit testing and debugging to ensure software quality",
+      "Participate in code reviews and provide constructive feedback",
+      "Stay up-to-date with the latest software development trends and technologies"
+    ],
+    "apply": "https://www.microsoft.com",
+    "date": "2021-07-01",
+    "experience": "3-5 years",
+    "logo": "https://logo.clearbit.com/microsoft.com",
+    "salary": "$100,000 - $120,000"
+  },
+  {
+    "id": 12,
+    "title": "Data Engineer",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "type": "Full Time",
+    "description": "We are looking for a Data Engineer to join our team. You will be responsible for designing, building, and maintaining data pipelines and infrastructure. You should have a strong understanding of data engineering principles and be able to work with large datasets. Your role will involve collaborating with cross-functional teams to ensure data quality and availability.",
+    "requirements": [
+      "Proven work experience as a Data Engineer",
+      "Strong programming skills in one or more languages (e.g. Python, SQL)",
+      "Experience with big data technologies (e.g. Hadoop, Spark)",
+      "Knowledge of data modeling and database design",
+      "Familiarity with cloud platforms (e.g. GCP, AWS)",
+      "Excellent problem-solving and analytical skills",
+      "BSc or MSc degree in Computer Science, Data Science, or relevant field"
+    ],
+    "responsibilities": [
+      "Design and build data pipelines and ETL processes",
+      "Collaborate with cross-functional teams to define and implement data requirements",
+      "Ensure data quality and availability for analysis and reporting",
+      "Optimize data pipelines for performance and scalability",
+      "Implement data security and privacy measures",
+      "Stay up-to-date with the latest data engineering trends and technologies"
+    ],
+    "apply": "https://www.google.com",
+    "date": "2021-07-01",
+    "experience": "3-5 years",
+    "logo": "https://logo.clearbit.com/google.com",
+    "salary": "$100,000 - $120,000"
+  },
+  {
+    "id": 13,
+    "title": "QA Engineer",
+    "company": "Amazon",
+    "location": "Seattle, WA",
+    "type": "Full Time",
+    "description": "We are looking for a QA Engineer to join our team. You will be responsible for ensuring the quality of our software products through testing and quality assurance processes. You should have a strong understanding of software testing principles and be able to work in an agile development environment. Your role will involve collaborating with cross-functional teams to deliver high-quality software solutions.",
+    "requirements": [
+      "Proven work experience as a QA Engineer",
+      "Strong knowledge of software testing methodologies and tools",
+      "Experience with test automation frameworks (e.g. Selenium, Appium)",
+      "Knowledge of software development life cycle and agile methodologies",
+      "Familiarity with version control systems (e.g. Git)",
+      "Excellent problem-solving and analytical skills",
+      "BSc or MSc degree in Computer Science or relevant field"
+    ],
+    "responsibilities": [
+      "Design and execute test plans and test cases",
+      "Perform manual and automated testing to ensure software quality",
+      "Identify and report software defects and issues",
+      "Collaborate with cross-functional teams to resolve software issues",
+      "Participate in code reviews and provide feedback on software quality",
+      "Stay up-to-date with the latest software testing trends and technologies"
+    ],
+    "apply": "https://www.amazon.com",
+    "date": "2021-07-01",
+    "experience": "3-5 years",
+    "logo": "https://logo.clearbit.com/amazon.com",
+    "salary": "$100,000 - $120,000"
+  },
+  {
+    "id": 14,
+    "title": "Cloud Architect",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "type": "Full Time",
+    "description": "We are looking for a Cloud Architect to join our team. You will be responsible for designing and implementing cloud-based solutions for our customers. You should have a strong understanding of cloud computing principles and be able to work with various cloud platforms. Your role will involve collaborating with cross-functional teams to deliver scalable and reliable cloud architectures.",
+    "requirements": [
+      "Proven work experience as a Cloud Architect",
+      "Strong knowledge of cloud computing platforms (e.g. Azure, AWS, GCP)",
+      "Experience with cloud infrastructure and services",
+      "Knowledge of cloud security and compliance",
+      "Familiarity with containerization technologies (e.g. Docker, Kubernetes)",
+      "Excellent problem-solving and analytical skills",
+      "BSc or MSc degree in Computer Science or relevant field"
+    ],
+    "responsibilities": [
+      "Design and implement scalable and reliable cloud architectures",
+      "Collaborate with cross-functional teams to define and implement cloud solutions",
+      "Ensure cloud security and compliance",
+      "Optimize cloud infrastructure for performance and cost",
+      "Provide guidance and support to development teams on cloud best practices",
+      "Stay up-to-date with the latest cloud computing trends and technologies"
+    ],
+    "apply": "https://www.microsoft.com",
+    "date": "2021-07-01",
+    "experience": "3-5 years",
+    "logo": "https://logo.clearbit.com/microsoft.com",
+    "salary": "$100,000 - $120,000"
+  },
+  {
+    "id": 15,
+    "title": "Product Designer",
+    "company": "Apple",
+    "location": "Cupertino, CA",
+    "type": "Full Time",
+    "description": "We are looking for a Product Designer to join our team. You will be responsible for creating innovative and visually appealing designs for our products. You should have a strong understanding of user-centered design principles and be able to collaborate with cross-functional teams to deliver high-quality designs.",
+    "requirements": [
+      "Proven work experience as a Product Designer",
+      "Proficient in design tools like Sketch, Adobe XD, or Figma",
+      "Strong portfolio showcasing product design projects",
+      "Knowledge of user-centered design principles",
+      "Excellent communication and collaboration skills",
+      "BSc or MSc degree in Design, Computer Science, or relevant field"
+    ],
+    "responsibilities": [
+      "Create innovative and visually appealing designs for products",
+      "Collaborate with cross-functional teams to define and implement design guidelines",
+      "Conduct user research and usability testing to gather feedback",
+      "Iterate on designs based on user feedback and business requirements",
+      "Ensure consistency and coherence across different product features"
+    ],
+    "apply": "https://www.apple.com",
+    "date": "2021-07-01",
+    "experience": "3-5 years",
+    "logo": "https://logo.clearbit.com/apple.com",
+    "salary": "$100,000 - $120,000"
+  }
+]

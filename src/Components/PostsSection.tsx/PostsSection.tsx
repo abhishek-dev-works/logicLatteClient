@@ -11,6 +11,7 @@ const PostsSection = () => {
         style={{
           paddingBottom: 10,
           height: "calc(100vh - 100px)",
+          width: '85em',
           overflowY: "scroll",
         }}
       >
