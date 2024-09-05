@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/logicLatteClient/static/css/main.e795c243.css",
+    "main.js": "/logicLatteClient/static/js/main.5e400d7d.js",
+    "static/js/453.c561e275.chunk.js": "/logicLatteClient/static/js/453.c561e275.chunk.js",
+    "static/media/video.mp4": "/logicLatteClient/static/media/video.ebff5c9daa4f2fd0d8f9.mp4",
+    "static/media/Nature_.jpg": "/logicLatteClient/static/media/Nature_.cc10f220a6d4209c195d.jpg",
+    "static/media/logo.png": "/logicLatteClient/static/media/logo.fad44020f24d73c5cbf6.png",
+    "static/media/profilepic.jpg": "/logicLatteClient/static/media/profilepic.de13812950bfcb347507.jpg",
+    "index.html": "/logicLatteClient/index.html",
+    "main.e795c243.css.map": "/logicLatteClient/static/css/main.e795c243.css.map",
+    "main.5e400d7d.js.map": "/logicLatteClient/static/js/main.5e400d7d.js.map",
+    "453.c561e275.chunk.js.map": "/logicLatteClient/static/js/453.c561e275.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e795c243.css",
+    "static/js/main.5e400d7d.js"
+  ]
+}
