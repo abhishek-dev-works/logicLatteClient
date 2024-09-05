@@ -1,5 +1,3 @@
-import React from "react";
-import CommonWrapper from "../Common/CommonWrapper";
 import ImageSrc from "../../assets/test/Nature_.jpg";
 import video from "../../assets/test/video.mp4";
 import Post from "../Common/Post";

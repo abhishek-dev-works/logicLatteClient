@@ -1,13 +1,14 @@
 import "./App.css";
-import PostsSection from "./Components/PostsSection.tsx/PostsSection";
-import HomePage from "./Pages/HomePage";
-import LandingPage from "./Pages/LandingPage";
 import RoutesModlue from "./Routes/Routes";
+import { Provider } from "react-redux";
+import store from "./store";
 
 function App() {
   return (
     <div className="App">
-      <RoutesModlue />
+      <Provider store={store}>
+        <RoutesModlue />
+      </Provider>
     </div>
   );
 }

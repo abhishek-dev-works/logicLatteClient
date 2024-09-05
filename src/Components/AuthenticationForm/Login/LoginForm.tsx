@@ -3,7 +3,7 @@ import { useForm, Controller, SubmitHandler } from "react-hook-form";
 import TextField from "@mui/material/TextField";
 import { makeStyles } from "tss-react/mui";
 import { Button } from "@mui/material";
-import { Authenticate } from "../../../Services/Users/userServices";
+import { Authenticate } from "../../../Services/UsersService/usersServices";
 
 const useStyles = makeStyles()({
   textField: {

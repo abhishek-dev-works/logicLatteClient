@@ -9,7 +9,7 @@ const useStyles = makeStyles()({
     paddingBottom: 10,
     height: "calc(100vh - 140px)",
     overflowY: "scroll",
-    width: "85em",
+    width: "80rem",
   },
   title: {
     fontSize: "x-large",

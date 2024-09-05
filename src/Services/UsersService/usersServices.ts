@@ -2,7 +2,7 @@ import axios, { AxiosRequestConfig } from "axios";
 import { USERBASEURL } from "../../config/config";
 
 const apiConfig: AxiosRequestConfig = {
-    baseURL: 'http://localhost:8080',
+    baseURL: process.env.REACT_APP_API_URL || 'http://localhost:5000',
     headers: {
       Accept: 'Application/json',
       'Content-Type': 'Application/json',
